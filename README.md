@@ -1,16 +1,18 @@
-### Hi there 👋
+## Olá sou Cristiano! 🧑🏻‍💻
 
-<!--
-**cristianoof/cristianoof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Em busca da primeira oportunidade como **Desenvolvedor**
+- **Estudando:** CSS, Javascript, ReactJS, NextJS
 
-Here are some ideas to get you started:
+<div>
+  <a href="https://github.com/cristianoof"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cristianoof&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristianoof&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Entre em contato comigo
+<div>
+  <a href="https://www.linkedin.com/in/cristiano-fernandes-acl/"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="mailto:cristiano.fernandes.of@gmail.com"/>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+ </div>
