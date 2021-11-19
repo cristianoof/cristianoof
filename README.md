@@ -1,7 +1,6 @@
 ## Olá sou Cristiano! 🧑🏻‍💻
 
-- Em busca da primeira oportunidade como **Desenvolvedor**
-- **Estudando:** CSS, Javascript, ReactJS, NextJS
+- Trabalho como **Desenvolvedor JR**, no Frontend com ReacJS e Backend com C#, na empresa Linx | Stone
 
 <div>
   <a href="https://github.com/cristianoof"/>
