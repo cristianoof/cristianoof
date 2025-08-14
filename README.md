@@ -1,6 +1,6 @@
 ## Olá sou Cristiano! 🧑🏻‍💻
 
-- Trabalho como **Desenvolvedor Frontend**, na empresa Linx | Stone, com React JS, Angular2+, Javascript, Typescript, HTML5 e CSS.
+- Trabalho como **Desenvolvedor Frontend**.
 
 <div>
   <a href="https://github.com/cristianoof"/>
